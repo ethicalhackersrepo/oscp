@@ -1,0 +1,39 @@
+#My Thought
+Initially i thought OSCP was an Advanced for Security but when i tried to grab information in online i get to know that only the fundamentals are here in OSCP so let's see how will be the journey
+
+What is OSCP
+============
+PEN-200 PWK(Penetration With Kali Linux
+24-Hours Practical Exam
+5-Hosts
+100 Points
+
+PWK Syllabus
+============
+* Bash Scripting
+* Information Gathering
+* Vulnerability Scanning
+* Web App Attacks
+* Windows Buffer Overflows
+* Fie Transfers
+* Password Attacks
+* AV Evasion
+* Privilege Escalation
+* Post Redirection and Tunneling
+* Active Directory Attacks
+* The Metasploit Framework
+* Powershell Empire
+
+OSCP Exam Restrictions
+======================
+Noo Usage of Below Tools
+-------------------------
+Spoofing (Network Level Attacks, IP Spoofing, ARP, DNS etc)
+Commercial Tools (Burp Pro etc) 
+Auto Exploitation Tools (Sql Map etc)
+Mass Vulnerability Scanners (Nessus, Nexpose etc)
+
+OSCP Videos
+=============
+When i was trying to prepare for PWK(OSCP) ifound a videos for free of cost officially.
+Link : https://pwk.hide01.ir/index.html#video-path=media/video/GCKL_03_00.mp4&time-offset=9
